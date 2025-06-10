@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Qty_button-2 add-to-compare-list-button</name>
+   <tag></tag>
+   <elementGuidId>47b56790-b7d4-42f6-a418-db611fcbd175</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Add to compare list']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.button-2.add-to-compare-list-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Add to compare list&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>2792411c-f849-4f5c-835b-e9579999a1e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e6c6de19-4819-47e2-a6f3-e1888a860c9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Add to compare list</value>
+      <webElementGuid>bbe4c960-59f9-4c11-9762-c5d6b1867ad6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-2 add-to-compare-list-button</value>
+      <webElementGuid>eae226f3-ec71-4c0a-99fe-e972a79cdd0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>setLocation('/compareproducts/add/36')</value>
+      <webElementGuid>322de7df-6a7e-4d5b-b729-d944464aa8f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-details-form&quot;)/div[1]/div[@class=&quot;product-essential&quot;]/div[@class=&quot;overview&quot;]/div[@class=&quot;compare-products&quot;]/input[@class=&quot;button-2 add-to-compare-list-button&quot;]</value>
+      <webElementGuid>52760835-89b2-48d6-aa99-e12aa0c3e774</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Add to compare list']</value>
+      <webElementGuid>bbe0f95b-8bc5-468d-9ecb-7e9e2e29254b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='product-details-form']/div/div/div[2]/div[8]/input</value>
+      <webElementGuid>6a305781-0ff8-4eaa-aeca-80b62d02c369</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/input</value>
+      <webElementGuid>2b0ea3f0-fe7b-42d2-8f7f-ba9ba9f179a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>edec4bcc-ac29-4ea0-8dca-20de42b19b01</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

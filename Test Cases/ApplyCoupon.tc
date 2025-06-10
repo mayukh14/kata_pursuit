@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ApplyCoupon</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>39e52a57-89a7-45dd-aed4-4eaa1e065adc</testCaseGuid>
+</TestCaseEntity>

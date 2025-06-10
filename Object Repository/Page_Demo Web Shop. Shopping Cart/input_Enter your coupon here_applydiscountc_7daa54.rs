@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Enter your coupon here_applydiscountc_7daa54</name>
+   <tag></tag>
+   <elementGuidId>a79efd94-92e0-428f-a531-3eb998d400b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='applydiscountcouponcode']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;applydiscountcouponcode&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Apply coupon&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f72eac7a-5211-42e5-96aa-ed4f1fb6f948</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>312b3786-c631-4f59-9c40-b669e0b8352f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>applydiscountcouponcode</value>
+      <webElementGuid>6f34cdc2-f95e-449c-a088-2ea01f03d943</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Apply coupon</value>
+      <webElementGuid>c3b31bbb-dc08-4d49-a714-a1f364703298</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-2 apply-discount-coupon-code-button</value>
+      <webElementGuid>6403f061-b37a-48d6-bd00-5bf17c0b88e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;master-wrapper-main&quot;]/div[@class=&quot;center-1&quot;]/div[@class=&quot;page shopping-cart-page&quot;]/div[@class=&quot;page-body&quot;]/div[@class=&quot;order-summary-content&quot;]/form[1]/div[@class=&quot;cart-footer&quot;]/div[@class=&quot;cart-collaterals&quot;]/div[@class=&quot;deals&quot;]/div[@class=&quot;coupon-box&quot;]/div[@class=&quot;coupon-code&quot;]/input[@class=&quot;button-2 apply-discount-coupon-code-button&quot;]</value>
+      <webElementGuid>6a3a3f1b-a8cf-4446-be0f-35dfb57fdfb4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='applydiscountcouponcode']</value>
+      <webElementGuid>b5a93396-d6bc-4b26-be0c-405faf1f191e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/input[2]</value>
+      <webElementGuid>5ef77a9a-52f9-4f28-b1ba-34a7b33be439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit' and @name = 'applydiscountcouponcode']</value>
+      <webElementGuid>0cf96ba9-fa28-45ae-858f-ab0eef912a81</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
