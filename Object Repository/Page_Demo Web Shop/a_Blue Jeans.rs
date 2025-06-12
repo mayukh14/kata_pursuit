@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Blue Jeans</name>
+   <tag></tag>
+   <elementGuidId>e5d58eda-b7d2-4b3c-8ae6-d010cba62620</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ui-id-7']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ui-id-7</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Blue Jeans&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9e03b41c-ad13-4c62-970f-e59bcab4e54a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ui-id-7</value>
+      <webElementGuid>6aec05a8-adcf-4770-a7e3-1597f578ce2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-corner-all ui-state-focus</value>
+      <webElementGuid>c46ee3fc-9853-4a30-be8f-9a7ce4711564</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>7695d98e-629c-431b-aba7-1985807fc2c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Blue Jeans</value>
+      <webElementGuid>276b7e3d-0f63-49f3-910b-de5d9bd684a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-id-7&quot;)</value>
+      <webElementGuid>f9a808f1-3bfb-4b51-99b5-2e54f509094f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ui-id-7']</value>
+      <webElementGuid>b4b257f2-d7e6-44df-89f8-2dfea13757a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='ui-id-1']/li[2]/a</value>
+      <webElementGuid>1b0994b3-e790-4134-93a2-7b856a94a9e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Blue Jeans')]</value>
+      <webElementGuid>74cc3dc2-5768-4a49-8f92-fe8f93684da7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blue and green Sneaker'])[1]/following::a[1]</value>
+      <webElementGuid>ac78ec8c-aa7c-47bd-a918-9cba80f5d2e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © 2025 Tricentis Demo Web Shop. All rights reserved.'])[1]/following::a[2]</value>
+      <webElementGuid>d308e2e1-bef6-44e4-8a7f-e7c6fc338c4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Green and blue Sneaker'])[1]/preceding::a[1]</value>
+      <webElementGuid>5b1dbf53-da33-4dee-a4a7-b89a0b5898d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TBlue Jeans'])[1]/preceding::a[2]</value>
+      <webElementGuid>aca7b9ab-7778-4a1e-a934-d8afbeca3d06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Blue Jeans']/parent::*</value>
+      <webElementGuid>b2ab44c9-f859-4b88-98f6-7908ecebb697</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/ul/li[2]/a</value>
+      <webElementGuid>d05c7b8d-d3ce-4d31-83bb-b88963461101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ui-id-7' and (text() = 'Blue Jeans' or . = 'Blue Jeans')]</value>
+      <webElementGuid>bb1a2789-1173-43a4-9a10-b9f0b72d6c6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

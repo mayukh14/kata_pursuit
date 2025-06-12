@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Forgot password_button-1 login-button</name>
+   <name>input_You have no items in your shopping ca_bc5dba</name>
    <tag></tag>
-   <elementGuidId>6da3a82c-012a-43f3-9052-91a959326cc4</elementGuidId>
+   <elementGuidId>c5e53b5c-6a06-47b0-9732-359153d04f04</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@value='Log in']</value>
+         <value>//input[@value='Search']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>input.button-1.login-button</value>
+         <value>input.button-1.search-box-button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Log in&quot;i]</value>
+         <value>internal:role=button[name=&quot;Search&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b2d17616-6073-4dc5-994d-ef84e42f473a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>button-1 login-button</value>
-      <webElementGuid>d97b9134-6c7a-4cd5-a865-5fc473e09a09</webElementGuid>
+      <webElementGuid>9d783145-82ba-4e93-9a69-d6d6ba373453</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,39 +37,47 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>4ee2f2a4-1da4-436f-9b61-c3ac6204eb92</webElementGuid>
+      <webElementGuid>1bc3b23e-b510-449e-aee1-6bf9316fed46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-1 search-box-button</value>
+      <webElementGuid>3381cb40-c022-4bd7-8d10-1270b5083d09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>Log in</value>
-      <webElementGuid>b7740448-ed81-4d43-a74f-1681d9fbabb6</webElementGuid>
+      <value>Search</value>
+      <webElementGuid>ecf8d85d-bb47-45c4-9607-81000e691673</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;master-wrapper-main&quot;]/div[@class=&quot;center-2&quot;]/div[@class=&quot;page login-page&quot;]/div[@class=&quot;page-body&quot;]/div[@class=&quot;customer-blocks&quot;]/div[@class=&quot;returning-wrapper&quot;]/div[@class=&quot;form-fields&quot;]/form[1]/div[@class=&quot;buttons&quot;]/input[@class=&quot;button-1 login-button&quot;]</value>
-      <webElementGuid>953e30cc-ec17-4650-a6bc-121b482a6492</webElementGuid>
+      <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;search-box&quot;]/form[1]/input[@class=&quot;button-1 search-box-button&quot;]</value>
+      <webElementGuid>b5aff2a8-e4ac-45ad-850b-850f3b930bcd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@value='Log in']</value>
-      <webElementGuid>7758022d-e919-4f9e-9667-c8ae9479aad0</webElementGuid>
+      <value>//input[@value='Search']</value>
+      <webElementGuid>e3fd4694-0123-43e9-b442-0eb29cd09deb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[5]/input</value>
-      <webElementGuid>38089354-2b8c-4d88-9488-eabcf5649747</webElementGuid>
+      <value>//input[2]</value>
+      <webElementGuid>80d5896b-6f79-435f-ab0e-e7e5aaea2bbe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit']</value>
-      <webElementGuid>7ae63cb3-ada7-40c8-b9fc-addfd97569e8</webElementGuid>
+      <webElementGuid>09458b77-8e3a-4848-b473-4b54e5a24d32</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
