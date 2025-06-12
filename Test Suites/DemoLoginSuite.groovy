@@ -33,8 +33,8 @@ import com.kms.katalon.core.annotation.TearDownTestCase
  */
 @SetUp(skipped = false) // Please change skipped to be false to activate this method.
 def setUp() {
-	println "setting things up"
 	// Put your code here.
+	println "setting things up"
 }
 
 /**
@@ -42,8 +42,8 @@ def setUp() {
  */
 @TearDown(skipped = false) // Please change skipped to be false to activate this method.
 def tearDown() {
-	println "tearing it dwon"
 	// Put your code here.
+	println "tearing it down"
 }
 
 /**

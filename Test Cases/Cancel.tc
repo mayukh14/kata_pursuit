@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>CheckOutByCOD</name>
+   <name>Cancel</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>7a3d2eac-0007-45a3-a577-5c6779ae83f4</testCaseGuid>
+   <testCaseGuid>be14fbc7-9ebd-4141-8c01-15c5ae0a26e3</testCaseGuid>
 </TestCaseEntity>

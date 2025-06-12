@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Log in</name>
+   <name>button_Click for JS Alert</name>
    <tag></tag>
-   <elementGuidId>b1dfc754-6c94-400b-99fa-43f9255d9018</elementGuidId>
+   <elementGuidId>a35cc643-f52c-4d76-be7b-b96db2cb6600</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[contains(text(),'Log in')]</value>
+         <value>//button[@onclick='jsAlert()']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>a.ico-login</value>
+         <value>button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;Log in&quot;i]</value>
+         <value>internal:role=button[name=&quot;Click for JS Alert&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,103 +28,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>42deb0e4-e5d6-4fad-8c3c-ad9c38e95da1</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>/login</value>
-      <webElementGuid>70b23765-97f4-4f89-af25-caf9a7c12243</webElementGuid>
+      <value>button</value>
+      <webElementGuid>b47c8c95-d66a-4116-be05-a008ffc00778</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>onclick</name>
       <type>Main</type>
-      <value>ico-login</value>
-      <webElementGuid>c4006dc6-00fb-4143-89b6-25e99f27eb68</webElementGuid>
+      <value>jsAlert()</value>
+      <webElementGuid>72534c59-e39f-4114-b2dc-7d003b93d96a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Log in</value>
-      <webElementGuid>16eb6a64-0a1a-44cc-a47d-74003a324006</webElementGuid>
+      <value>Click for JS Alert</value>
+      <webElementGuid>9db6fa3a-9323-4333-ba32-12f348607907</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;header-links-wrapper&quot;]/div[@class=&quot;header-links&quot;]/ul[1]/li[2]/a[@class=&quot;ico-login&quot;]</value>
-      <webElementGuid>31f2e5ba-de10-4e06-8cf2-948323fea460</webElementGuid>
+      <value>id(&quot;content&quot;)/div[@class=&quot;example&quot;]/ul[1]/li[1]/button[1]</value>
+      <webElementGuid>152a7416-4bbc-4c31-90c1-1fe5850ca0b3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
+      <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Log in')]</value>
-      <webElementGuid>ee04e396-c111-4de7-801b-42f5e3eb1f64</webElementGuid>
+      <value>//button[@onclick='jsAlert()']</value>
+      <webElementGuid>c57fbc7d-5262-4bdd-9600-9a499cdce108</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/ul/li/button</value>
+      <webElementGuid>c8de8d8b-9a09-4f21-b0fc-d5fa097b4565</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::a[1]</value>
-      <webElementGuid>c80e7ace-6c8b-4bac-bc81-029678df6650</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JavaScript Alerts'])[1]/following::button[1]</value>
+      <webElementGuid>4df3ce09-c9c8-4765-a194-4a76710fc43c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping cart'])[1]/preceding::a[1]</value>
-      <webElementGuid>dd2a30e2-2778-4a62-bc6c-cd4e93fc8152</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click for JS Confirm'])[1]/preceding::button[1]</value>
+      <webElementGuid>7e0b8a1e-b0e9-4557-a128-11a1d5c1dbfe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='(0)'])[1]/preceding::a[1]</value>
-      <webElementGuid>39e180a0-40ed-4bd9-bf84-531f64b97a9f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click for JS Prompt'])[1]/preceding::button[2]</value>
+      <webElementGuid>7f504354-97c7-4468-9c12-7518e3b8b9b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Log in']/parent::*</value>
-      <webElementGuid>c617d32c-37f8-4345-9cee-deaa952839fa</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
-      <type>Main</type>
-      <value>//a[contains(@href, '/login')]</value>
-      <webElementGuid>d5a7d988-466d-43b7-ab66-b4358c815c8b</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Click for JS Alert']/parent::*</value>
+      <webElementGuid>88715332-0d6d-4f99-a2a4-a55c56133c2f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[2]/a</value>
-      <webElementGuid>407f77ff-1cf0-4d8d-8c68-cbb1b64e1400</webElementGuid>
+      <value>//button</value>
+      <webElementGuid>519337c9-db2c-4ad1-be09-d3c5f028a12e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/login' and (text() = 'Log in' or . = 'Log in')]</value>
-      <webElementGuid>55328bd5-a06e-4090-957c-92d623b38944</webElementGuid>
+      <value>//button[(text() = 'Click for JS Alert' or . = 'Click for JS Alert')]</value>
+      <webElementGuid>25d0df1c-d0a8-4438-9dda-306fa60fe93f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
