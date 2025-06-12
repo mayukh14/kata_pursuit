@@ -12,10 +12,10 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>4d7cdd06-fffb-4f83-8cc0-be14e058e850</testSuiteGuid>
    <testCaseLink>
-      <guid>085aa470-2967-4bd9-8a4d-cf1f5ebf65e0</guid>
+      <guid>016effdd-8a8c-436a-91e2-b5e106e348a3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LoginTest</testCaseId>
+      <testCaseId>Test Cases/LoginCustom</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
