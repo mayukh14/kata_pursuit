@@ -19,13 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://demowebshop.tricentis.com/')
+WebUI.navigateToUrl(GlobalVariable.url)
 
 WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/a_Log in'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Email_Email'), 'mayukhc55@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Email_Email'), GlobalVariable.username)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Password_Password'), 'AMc3WfyoAOFXOd/u9GRDaQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Password_Password'), GlobalVariable.password)
 
 WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Password_RememberMe'))
 
